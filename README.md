@@ -69,8 +69,8 @@ python run_stock.py
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/arunm1407/MCP.git
+cd MCP
 ```
 
 ### 2. Install dependencies
