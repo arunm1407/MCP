@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langgraph
+langchain-community
+langchain-groq
+langgraph-supervisor
+tavily-python
+truststore
